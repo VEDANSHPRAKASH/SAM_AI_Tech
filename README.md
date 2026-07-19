@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 
 This repository contains my project submissions for the **Machine Learning Internship** at
 **[SAM AI Technologies](https://sites.google.com/view/sam-ai-technologies/home)** — *"Your dream
