@@ -13,21 +13,6 @@ practice with text preprocessing, feature engineering, model training, and evalu
 
 ---
 
-## 📋 About the Internship
-
-SAM AI Technologies is a growing technologies company focused on real-world project training,
-aiming to give students practical experience and industry-level exposure through structured
-internship programs.
-
-**What the internship provides:**
-- 📄 Internship Offer Letter
-- 🎓 Completion Certificate
-- ✉️ Letter of Recommendation
-- 💼 Job / Placement Opportunity
-- 📝 Resume Building & Guidance
-- 🛠️ Real-World Project Experience
-
----
 
 ## ✅ Task List — Machine Learning Track
 
@@ -160,25 +145,6 @@ A simple rule-assisted, ML-powered chatbot that understands user intent and gene
 
 > Each notebook is self-contained — if a real dataset isn't present in the folder, a synthetic
 > sample dataset is generated automatically so every notebook runs end-to-end out of the box.
-
----
-
-## 📌 Internship Guidelines Followed
-
-- ✅ Completed assigned tasks on time
-- ✅ Uploaded projects on GitHub
-- ✅ Shared work on LinkedIn with proper hashtags (tagging **SAM AI Technologies**)
-- ✅ Maintained professionalism throughout the internship
-- ✅ Followed all submission guidelines (task submission form, project deadline, short
-  explanation video)
-
----
-
-## 📞 Contact — SAM AI Technologies
-
-- **Phone:** +91 9262552106
-- **Email:** samaitech.hr@gmail.com
-- **Website:** [sites.google.com/view/sam-ai-technologies/home](https://sites.google.com/view/sam-ai-technologies/home)
 
 ---
 
